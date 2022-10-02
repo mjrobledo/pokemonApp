@@ -1,0 +1,21 @@
+/* 
+  Default.strings
+  PokeApp
+
+  Created by Miguel Robledo on 02/10/22.
+  Copyright © 2022 MIGUEL ROBLEDO. All rights reserved.
+*/
+
+titleSomethingWentWrong = "Algo salió mal";
+msgTryLater = "intenta más tarde";
+Continue = "Continue";
+lblPokemonTypes = "Pokemon Types";
+titleHome = "Inicio";
+lblReloadAll = "Cargar todos";
+msgNotFound = "No hay resultados para tu búsqueda";
+lblResults = "resultados";
+txtSearch = "Búscar";
+txtSelectedSearchType = "Selecciona el tipo de búsqueda";
+txtType = "Tipo";
+txtPokemon = "Pokemon";
+Cancel = "Cancelar";
